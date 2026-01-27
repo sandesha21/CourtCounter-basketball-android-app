@@ -2,8 +2,6 @@
 
 A simple and intuitive Android app for tracking basketball scores during games.
 
-> **Evolution**: This app is an upgraded version of the [Track Cricket Score](https://github.com/sandesha21/score-keeper-app_google_android_development) app, evolved from cricket scoring to basketball scoring with enhanced UI and features. The legacy cricket version is preserved in the `legacy-score-keeper` branch.
-
 ## Features
 
 - **Dual Team Scoring**: Track scores for two teams simultaneously
@@ -90,7 +88,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Built as a learning project for Android development
 - Inspired by the need for simple, reliable basketball scoring tools
-- **Legacy**: Evolved from the [Track Cricket Score app](https://github.com/sandesha21/score-keeper-app_google_android_development) - original cricket scoring version available in the `legacy-score-keeper` branch
 
 ## 👨‍💻 Author
 
