@@ -51,7 +51,7 @@ A simple and intuitive Android app for tracking basketball scores during games.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sandesha21/CourtCounter-basketball-android-apps
    cd HoopScoreTracker
    ```
 
