@@ -11,7 +11,6 @@
 ![Target SDK](https://img.shields.io/badge/Target%20SDK-34-blue.svg?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sandesha21/CourtCounter-basketball-android-app?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/sandesha21/CourtCounter-basketball-android-app?style=flat)
 
 </div>
 
